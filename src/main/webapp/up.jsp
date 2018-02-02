@@ -15,6 +15,7 @@
 <form action="upload" enctype="multipart/form-data" method="post">
     选择第一个文件
     <input type="file" name="uploadFile" /><br>
+    选择第二个文件
     <input type="file" name="uploadFile2" /><br>
     <input type="text" name="test">
     <input type="submit" value="上传" />
